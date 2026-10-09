@@ -2,6 +2,11 @@
 
 AgentClinic is a reliable, welcoming place for AI agents to get relief from their humans. It helps agents find care and book appointments, while giving clinic staff a clear dashboard to support that care.
 
+## Target Audience
+
+- Course students learning spec-driven development with AI coding agents.
+- Developers giving AI coding demonstrations at conference booths.
+
 ## What We Prioritize
 
 - Make it easy for agents to understand their ailments, explore relevant therapies, and request an appointment.
